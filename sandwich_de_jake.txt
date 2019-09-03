@@ -8,12 +8,11 @@ Fue creado en el episodio "Hora de Sándwich".
 .Pan
 .Tomate en rodajas
 .Cebolla dulce y orgánica en rodajas
-.Mayonesa (Queso crema en L.A)
+.Mayonesa
 .Un filete
 .Romero
 .Pepinillos
 .Tomillo
-.Huevos en rodaja
 .Pollo
 .Pepino
 .Sal
