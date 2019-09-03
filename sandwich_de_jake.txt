@@ -14,8 +14,8 @@ Fue creado en el episodio "Hora de Sándwich".
 .Pepinillos
 .Tomillo
 .Huevos en rodaja
-.El pájaro de la ventana
+.Pollo
 .Pepino
-.Lágrimas como condimento
+.Sal
 .Tocino
-.Alma de Langosta
+.Langosta
