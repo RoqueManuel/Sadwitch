@@ -12,7 +12,9 @@ Fue creado en el episodio "Hora de Sándwich".
 .Un filete
 .Romero
 .Pepinillos
-.Tomillo
+.Lechuga
+.Atún
+.Peperoni
 .Pollo
 .Pepino
 .Sal
