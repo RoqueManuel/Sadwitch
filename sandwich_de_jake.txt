@@ -9,6 +9,10 @@ La historia es otra
 .Mayonesa
 .Un filete
 .Romero
+.Pepinillos
+.Lechuga
+.Atún
+.Peperoni
 .Pollo
 .Sal
 .Tocino
